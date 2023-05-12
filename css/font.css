@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "f-medium";
+  src: url("../fonts/Euclid\ Circular\ B\ Medium.ttf");
+}
+@font-face {
+  font-family: "f-regular";
+  src: url("../fonts/Euclid\ Circular\ B\ Regular.ttf");
+}
+
+.f-r-12 {
+  font-family: "f-regular";
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.f-r-14 {
+  font-family: "f-regular";
+  font-size: 14px;
+  line-height: 14px;
+}
+.f-r-22 {
+  font-family: "f-regular";
+  font-size: 22px;
+  line-height: 40px;
+}
+
+.f-r-18 {
+  font-family: "f-regular";
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.f-m-12 {
+  font-family: "f-medium";
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.f-m-14 {
+  font-family: "f-medium";
+  font-size: 14px;
+  line-height: 18px;
+}
+.f-m-16 {
+  font-family: "f-medium";
+  font-size: 16px;
+  line-height: 20px;
+}
+.f-m-18 {
+  font-family: "f-medium";
+  font-size: 18px;
+  line-height: 30px;
+}
+.f-m-20 {
+  font-family: "f-medium";
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.f-m-40 {
+  font-family: "f-medium";
+  font-size: 40px;
+  line-height: 50px;
+}
+.f-m-50 {
+  font-family: "f-medium";
+  font-size: 50px;
+  line-height: 55px;
+}
+
+.f-m-60 {
+  font-family: "f-medium";
+  font-size: 60px;
+  line-height: 76px;
+}
+.f-m-74 {
+  font-family: "f-medium";
+  font-size: 74px;
+  line-height: 90px;
+}

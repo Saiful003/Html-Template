@@ -1,0 +1,23 @@
+i.fa-brands.fa-facebook-f {
+  color: #ff5c01;
+}
+i.fa-solid.fa-chevron-right {
+  position: absolute;
+  top: 32px;
+  right: 210px;
+  font-size: 19px;
+}
+i.fa-solid.fa-arrow-right.active {
+  color: white;
+}
+i.fa-solid.fa-play {
+  color: white;
+  font-size: 29px;
+}
+i.fa-regular.fa-paper-plane {
+  position: absolute;
+  right: 0;
+}
+i.fa-solid.fa-star {
+  color: #f8a324;
+}

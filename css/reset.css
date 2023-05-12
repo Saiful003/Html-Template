@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  color: black;
+}
+
+ul li a {
+  text-decoration: none;
+}
+i {
+  cursor: pointer;
+}
